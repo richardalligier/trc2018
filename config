@@ -1,0 +1,7 @@
+DATA_PATH := ./Data
+FIGURE_FOLDER := ./Figure
+TABLE_FOLDER := ./Table
+
+MODELS := A320 A321 B738 A319 A332 B737 B77W E195 CRJ9 E190 DH8D
+XVARS := admost abdemopst
+YVARS := massFutur target_cas2 target_Mach target_cas1
