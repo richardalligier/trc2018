@@ -1,6 +1,6 @@
 # Learning Aircraft Operational Factors to Improve Aircraft Climb Prediction: A Large Scale Multi-Airport Study
 
-This Github page hosts most of the code producing the results published in the paper "Learning Aircraft Operational Factors to Improve Aircraft Climb Prediction: A Large Scale Multi-Airport Study". The code missing is the code related to the Eurocontrol BADA model.
+This Github page hosts most of the code producing the results published in the paper "Learning Aircraft Operational Factors to Improve Aircraft Climb Prediction: A Large Scale Multi-Airport Study" ([https://doi.org/10.1016/j.trc.2018.08.012](https://doi.org/10.1016/j.trc.2018.08.012)). The code missing is the code related to the Eurocontrol BADA model.
 
 The trajectory data are automatically downloaded by the script. They are hosted at [https://opensky-network.org/datasets/publication-data/climbing-aircraft-dataset](https://opensky-network.org/datasets/publication-data/climbing-aircraft-dataset).
 
