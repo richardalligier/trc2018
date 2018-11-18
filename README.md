@@ -57,7 +57,7 @@ You might want to compute the operational factors on a single aircraft type to t
 make MODELS="DH8D"
 ```
 
-To compute the predicted operational factors, you only have to type (**WARNING: Takes a lot of time!!**) :
+To compute the predicted operational factors for all the aircraft types, you only have to type (**WARNING: Takes a lot of time!!**) :
 
 
 ```
