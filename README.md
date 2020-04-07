@@ -154,9 +154,9 @@ Except the angles (which are in degrees), all the variables are in SI units.
 | distance_from_dep | Distance between the current position and the departure airport |
 | trip_distance | Distance between the departure airport and arrival airport |
 | massPast | Mass fitted on the 10 past points using only the BADA 3.14 physical model |
-| mseEnergyRatePast | Mean Squared Error between the fitted energy-rate and the observed one |
+| mseEnergyRatePast | Root Mean Squared Error between the fitted energy-rate and the observed one |
 | massFutur | Mass fitted on the 40 future points using only the BADA 3.14 physical model |
-| mseEnergyRateFutur | Mean Squared Error between the fitted energy-rate and the observed one |
+| mseEnergyRateFutur | Root Mean Squared Error between the fitted energy-rate and the observed one |
 | u | Eastern wind component, computed at interpolated baroaltitude |
 | v | Northern wind component, computed at interpolated baroaltitude |
 | temp | Temperature computed at the interpolated baroaltitude |
